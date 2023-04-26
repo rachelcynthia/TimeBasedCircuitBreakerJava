@@ -1,0 +1,6 @@
+[submodule "CountBasedCBJava"]
+	path = CountBasedCBJava
+	url = https://github.com/rachelcynthia/CountBasedCBJava
+[submodule "CountBasedCBExternalServiceJava"]
+	path = CountBasedCBExternalServiceJava
+	url = https://github.com/rachelcynthia/CountBasedCBExternalServiceJava
