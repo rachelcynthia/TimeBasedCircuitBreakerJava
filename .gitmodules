@@ -4,3 +4,9 @@
 [submodule "CountBasedCBExternalServiceJava"]
 	path = CountBasedCBExternalServiceJava
 	url = https://github.com/rachelcynthia/CountBasedCBExternalServiceJava
+[submodule "TimeBasedCBJava"]
+	path = TimeBasedCBJava
+	url = https://github.com/rachelcynthia/TimeBasedCBJava.git
+[submodule "TimeBasedCBExternalServiceJava"]
+	path = TimeBasedCBExternalServiceJava
+	url = https://github.com/rachelcynthia/TimeBasedCBExternalServiceJava.git
