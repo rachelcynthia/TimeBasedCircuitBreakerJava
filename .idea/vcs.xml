@@ -2,7 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CountBasedCBExternalServiceJava" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CountBasedCBJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TimeBasedCB" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TimeBasedCBExternalService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TimeBasedCBExternalServiceJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TimeBasedCBJava" vcs="Git" />
   </component>
 </project>
